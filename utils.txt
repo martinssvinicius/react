@@ -1,0 +1,7 @@
+npm run dev
+
+npm install clsx
+
+npm install -D tailwindcss autoprefixer postcss
+
+npm install -D sass
